@@ -18,7 +18,7 @@ environment:
 
 dependencies:
   # 23.请求接口并且显示列表.dart
-  dio: ^3.0.7
+  dio: ">=3.0.7 <6.0.0"
   flutter:
     sdk: flutter
 
